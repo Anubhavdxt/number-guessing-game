@@ -58,7 +58,7 @@ Created _functions_ for the _repetitive code_ & _specific tasks_.
 Clone the project
 
 ```bash
-  git clone https://github.com/Anubhavdxt/todo-app
+  git clone https://github.com/Anubhavdxt/number-guessing-game
 ```
 
 Go to the project directory
